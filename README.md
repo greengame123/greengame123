@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @greengame123.
+- 👀 I’m interested in game design.
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on game design.
+- 📫 How to reach me:greengame@qq.com .
